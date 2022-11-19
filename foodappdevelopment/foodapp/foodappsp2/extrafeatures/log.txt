@@ -1,0 +1,10 @@
+[Sat Nov 19 09:40:55 2022][main.cpp]:[18] 			WELCOME TO ONLINE FOOD ORDERING SYSTEM
+[Sat Nov 19 09:40:55 2022][main.cpp]:[20] Select option: 
+
+[Sat Nov 19 09:41:09 2022][Users.cpp]:[100] <-----------WARNING!!! Invalid password----->
+<-------------Please re-enter the password------->
+[Sat Nov 19 09:47:24 2022][main.cpp]:[18] 			WELCOME TO ONLINE FOOD ORDERING SYSTEM
+[Sat Nov 19 09:47:24 2022][main.cpp]:[20] Select option: 
+
+[Sat Nov 19 09:47:33 2022][Users.cpp]:[114] <----------Login successful with Username-------->
+
